@@ -45,11 +45,11 @@ const services = [
   },
   {
     title: 'Cloud Computing',
-    icon: "https://files.oaiusercontent.com/file-ge3dbAx3wa4X6VzMmxD3XOzc?se=2024-11-03T09%3A48%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D91f29eab-fd2d-4721-9a8d-c0f399eeb369.webp&sig=5PmDW6P1CoVUzfjQR2viRTJdvIFdOwtGQinYxMer9Dg%3D",
+    icon: "https://github.com/user-attachments/assets/42dbab04-6885-428c-8c41-01333bb905c2",
   },
   {
     title: 'Database Management',
-    icon: 'https://files.oaiusercontent.com/file-HelT8oEqIzYHV8KWfGJklY9q?se=2024-11-03T09%3A49%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D99f3fcd7-758a-4af9-ad43-6532afe96d68.webp&sig=f7Nk28k7VLbn9g9CvqEgoN5BSSS9JG3Qm1JS5cl9tuI%3D',
+    icon: 'https://github.com/user-attachments/assets/37506eda-4c67-4d30-ad98-4fa52b416cd2',
   },
 ];
 
